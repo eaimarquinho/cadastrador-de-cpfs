@@ -1,0 +1,17 @@
+{
+    "cnpjEmisor":"4454545787-1454",
+    "notaFiscal":"45454548787454a45",
+    "listaDeProdutos": [
+        {
+            "nome":"Arroz",
+            "Preco":15
+        },
+        {
+            "nome":"Pasta de Dente",
+            "Preco":1.50
+        
+        }
+    ],
+    "Total":16.50
+}    
+    
